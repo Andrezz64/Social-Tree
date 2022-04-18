@@ -1,0 +1,59 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px 0px 30px;
+}
+
+.profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 4px solid #BB99DD;
+    padding: 5px;
+    align-items: center;
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    margin-top: 0px;
+    
+}
+
+.pip{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    text-decoration: none;
+    color: #BB99DD;
+    width: 300px;
+    height: 50px;
+    border: 4px solid #BB99DD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.icon{
+    
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+
+    text-decoration: none;
+
+}
