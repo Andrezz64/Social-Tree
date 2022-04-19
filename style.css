@@ -47,13 +47,17 @@
     margin-bottom: 10px;
 }
 
+
 .icon{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
     
+    
+}
+#fig{
     display: flex;
     justify-content: center;
-    
     align-items: center;
-
-    text-decoration: none;
-
 }
